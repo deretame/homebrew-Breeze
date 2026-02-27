@@ -1,6 +1,6 @@
 cask "breeze" do
   version "2.12.6"
-  sha256 "这里填入你dmg文件的实际sha256"
+  sha256 "5811744858714911347141581174485871491134714158117448587149113471"
 
   url "https://github.com/deretame/Breeze/releases/download/v#{version}/Breeze-macOS.dmg"
   name "Breeze"
