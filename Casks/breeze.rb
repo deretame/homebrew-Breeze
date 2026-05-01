@@ -1,6 +1,6 @@
 cask "breeze" do
   version "3.0.5"
-  sha256 "ed8546479f5c7fc130d99ea2124035403043cb21e9fb4bd5cf31e4a9ec4968eb"
+  sha256 "987840cb10f1cde1c6d14479f31161db5e4a56955dc048d7ff9d423bfd412011"
 
   url "https://github.com/deretame/Breeze/releases/download/v#{version}/Breeze-macOS.dmg"
   name "Breeze"
