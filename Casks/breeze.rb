@@ -2,7 +2,7 @@ cask "breeze" do
   version "3.0.18"
   sha256 "8257b7b8fa15350858582f6d7912b3da6dca9ab1bb7dec351770964f3f54d378"
 
-  url "https://github.com/deretame/Breeze/releases/download/v#{version}/Breeze-macOS-#{version}.dmg"
+  url "https://github.com/deretame/Breeze/releases/download/v#{version}/Breeze-macOS-v#{version}.dmg"
   name "Breeze"
   desc "哔咔(PicACG)与禁漫(jm)的第三方桌面客户端"
   homepage "https://github.com/deretame/Breeze"
